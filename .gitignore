@@ -1,1 +1,4 @@
-git ignore in car
+*.log
+gir/
+
+
