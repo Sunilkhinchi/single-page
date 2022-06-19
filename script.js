@@ -81,6 +81,5 @@ console.log(num.nextbs().value);
 console.log(num.nextbs().value);
 console.log(num.nextbs().value);
 console.log(num.nextbs().value);
-console.log(num.nextbs().value);
-console.log(num.nextbs().value);
+
 
